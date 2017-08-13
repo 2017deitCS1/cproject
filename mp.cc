@@ -40,7 +40,8 @@ int main(int argc, char**argv) {
     // Prints welcome message...
     std::cout << "Welcome ..." << std::endl;
     pid=getpid();
-
+////fwgsagfaga
+    
     // Prints arguments...
     if (argc > 1) {
         f_res = fork();
